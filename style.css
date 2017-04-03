@@ -1,3 +1,10 @@
 body {
     background-color: orange;
+    font-family: "Open Sans";
+}
+
+canvas#myCanvas{
+    background-color: white;
+    border: 1px solid grey;
+    color: black;
 }
