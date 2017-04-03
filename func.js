@@ -37,6 +37,7 @@ window.onload = function() {
     ctx.beginPath();
     ctx.moveTo(200, 20);
     ctx.bezierCurveTo(20,100,200,100,200,20);
+    ctx.scale(4, 2);
     ctx.strokeStyle="cyan";
     ctx.stroke();
 }
