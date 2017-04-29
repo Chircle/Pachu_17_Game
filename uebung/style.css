@@ -1,6 +1,8 @@
 body {
     background-color: orange;
     font-family: "Open Sans";
+    color: black;
+
 }
 
 canvas#myCanvas{
@@ -8,3 +10,4 @@ canvas#myCanvas{
     border: 2px solid grey;
     color: black;
 }
+
